@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+    background-color: #a1a0a0;
+}
+
+img {
+    position: absolute;
+    opacity: 0;
+}
